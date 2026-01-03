@@ -39,6 +39,10 @@ I am particularly interested in **product development, operations management, bu
   Master’s thesis project focusing on immersive learning for warehouse operations
 ![WMS VR Screenshot](assets/picture/wms-vr-ss1.png)
 
+- **Infrastructure Works
+  Building Maintenance in Prima Makmur
+  (assets/picture/infrastructure-projects.png)
+
 - **PET Bottle Recycling Traceability System**  
   Developed during internship at GS1 Thailand  
 
