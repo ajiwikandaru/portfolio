@@ -39,11 +39,11 @@ I am particularly interested in **product development, operations management, bu
   Master’s thesis project focusing on immersive learning for warehouse operations
 ![WMS VR Screenshot](assets/picture/wms-vr-ss1.png)
 
-- **Infrastructure Works
+- **Infrastructure Works**
   Building Maintenance in Prima Makmur
 ![infrastructure screenshot](assets/picture/infrastructure-projects.png)
 
-- **Production Efficiency Improvement**  
+- **Production Engineer Efficiency Improvement**  
   Cost, waste, and process optimization in packaging manufacturing
 ![production engineer screenshot](assets/picture/production-engineer-projects-bagmaking.png)
 
