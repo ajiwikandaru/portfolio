@@ -8,7 +8,7 @@ title: Aji Wikandaru
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="assets/picture/profile-picture.png" alt="Profile Picture" style="width: 180px; border-radius: 8px;">
   <div>
-    <p>An adaptive and fast-learning person with an educational background in <strong>Agroindustrial Technology</strong> and experience in <strong>continuous improvement, production, warehousing, retail, and general affairs</strong>.</p>
+    <p>An adaptive and fast-learning person with an educational background in <strong>Agroindustrial Technology</strong> and professional experience in <strong>continuous improvement, production, warehousing, retail, and general affairs</strong>.</p>
     <p>I am particularly interested in <strong>product development, operations management, business analysis, and virtual-based design</strong> to support collaborative and data-driven decision making.</p>
   </div>
 </div>
