@@ -4,10 +4,14 @@ title: Aji Wikandaru
 ---
 
 ## 👋 Hi, I’m Aji Wikandaru
-![Profile Picture](assets/picture/profile-picture.png)
 
-An adaptive and fast-learning professional with an educational background in **Agroindustrial Technology** and experience in **continuous improvement, production, warehousing, retail, and general affairs**.  
-I am particularly interested in **product development, operations management, business analysis, and virtual-based design** to support collaborative and data-driven decision making.
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="assets/picture/profile-picture.png" alt="Profile Picture" style="width: 180px; border-radius: 8px;">
+  <div>
+    <p>An adaptive and fast-learning professional with an educational background in <strong>Agroindustrial Technology</strong> and experience in <strong>continuous improvement, production, warehousing, retail, and general affairs</strong>.</p>
+    <p>I am particularly interested in <strong>product development, operations management, business analysis, and virtual-based design</strong> to support collaborative and data-driven decision making.</p>
+  </div>
+</div>
 
 ---
 
