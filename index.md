@@ -86,7 +86,7 @@ Thesis: *Development of Nitro Coffee With Pleasurable Needs*
 ![infrastructure screenshot](assets/picture/infrastructure-project.png)
 
 - **Production Engineer Efficiency Improvement in Bagmaking Process (2022)**  
-  Cost, waste, and process optimization in packaging manufacturing
+  Instruction of using bagmaking machine
 ![production engineer screenshot](assets/picture/bagmaking-project.png)
 
 - **Production Engineer Efficiency Improvement in Printing Process (2022)**  
