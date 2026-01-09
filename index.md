@@ -19,23 +19,40 @@ title: Aji Wikandaru
 
 ### ASIIN – Auditor (Project Based)  
 *Oct 2024 – Apr 2025*  
-- Selected as Student Representative from Universitas Gadjah Mada  
-- Conducted accreditation audits for four Agroindustrial Technology study programs  
-- Led student interviews and contributed to audit recommendations  
+- Selected as a Student Representative from Gadjah Mada University.
+- Conducted an audit of ASIIN accreditation for four study programs in Agricultural Industrial Technology at Padjadjaran University, Jatinangor, West Java.
+- Led the student interview sessions, assessed accreditation documents, and provided recommendation on the audit outcomes.  
 
 ### GS1 Thailand – Student Internship  
 *July 2024*  
-- Developed a sustainability-focused traceability concept for PET plastic bottle recycling  
-- Integrated barcode and QR code systems across the supply chain  
+- Developed a sustainability concept for the traceability of the PET plastic bottle recycling supply chain, integrating material suppliers, manufacturers, retailers, and end-users using barcodes and QR code system.
 
-### PT Prima Makmur Rotokemindo  
+### PT. Prima Makmur Rotokemindo  
 **Infrastructure Staff** *(Dec 2022 – Feb 2024)*  
-- Achieved **20% cost savings** in building management through material reuse  
+- Planned and scheduled factory building maintenance and repairs.
+- Led and supervised the infrastructure team in executing maintenance tasks.
+- Implemented cost saving 20% in building management by reusing materials during infrastructure maintenance.
 
 **Production Engineer** *(Feb 2022 – Nov 2022)*  
-- Reduced solvent usage by **15%** using an additional chiller system  
-- Reduced production waste by **30%** through machine parameter optimization  
+- Improved printing production cost efficiency by reducing solvent usage by 15% through the implementation of an additional chiller system.
+- Developed parameter instructions for bag-making machines to produce various bag types (standing pouches, center seals, and side seals), reducing production waste by 30%.
 
+### PT. Timur Tengah Indonesia (KALABORASI GROUP)
+**Head of Surabaya Store** *(Nov 2021 – Feb 2022)*  
+- Leading operational activities of the store and fullfilling the e-commerce service level.
+- Responsible of sales performance especially in online sales and grocery sales.
+- Expanded market into East Java, Bali Kalimantan, Nusa Tenggara, and Sulawesi.
+
+**Quality Improvement Officer (Head Office Jakarta)** *(Jul 2021 – Oct 2021)*
+- Created various work instructions and formulations for food production.
+- Created every distribution schedule from the production center to other branches.
+- Implemented a FIFO system in the racking management Stores.
+- Help Human Resources determine manpower planning analysis.
+
+**Head of Production (Dumpit Branch)** *(Jul 2021 – Jun 2021)*
+- Leading production and inventory control at the Dumpit Production Center, Tangerang.
+- Planning and controlling distribution from Dumpit to every branch including Karawaci, Jakarta, Bandung, Yogyakarta and Surabaya.
+- Ensure quality control and assurance of all products which produced in Dumpit.
 ---
 
 ## 🎓 Education
@@ -78,6 +95,10 @@ Thesis: *Development of Nitro Coffee With Pleasurable Needs*
 - **Quality Improvement Officer at Timur Tengah Indonesia (2021)**  
   Work instruction for food products
 ![quality improvement officer screenshot](assets/picture/food-formulation-timteng.png)
+
+- **Product Development of Nitro Coffee (2020)**  
+  Bachelor's thesis
+ ![bachelor thesis](assets/picture/Nitro-coffee-rnd.png) 
 ---
 
 
