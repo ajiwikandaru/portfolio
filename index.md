@@ -53,6 +53,7 @@ title: Aji Wikandaru
 - Leading production and inventory control at the Dumpit Production Center, Tangerang.
 - Planning and controlling distribution from Dumpit to every branch including Karawaci, Jakarta, Bandung, Yogyakarta and Surabaya.
 - Ensure quality control and assurance of all products which produced in Dumpit.
+
 ---
 
 ## 🎓 Education
